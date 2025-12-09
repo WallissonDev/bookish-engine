@@ -1,1 +1,3 @@
 Arquivo para teste do git
+
+Nova frase para teste de commit
